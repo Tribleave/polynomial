@@ -1,5 +1,5 @@
 #pragma once
-#ifndef POLYOMAIL_H
+#ifndef POLYNOMAIL_H
 #define POLYNOMAIL_H
 #include <iostream>
 #include <cmath>
